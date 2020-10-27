@@ -1,0 +1,5 @@
+Aggregated results from the raw data are generated and saved into this folder.
+
+After this data is generated, it can be processed by the ARTool (performs an Aligned rank tranform) in order to prepare it for the nonparametric analysis.
+
+
